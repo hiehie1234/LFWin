@@ -94,7 +94,7 @@ dependencies:
       - annotated-types==0.7.0
       - anyio==4.4.0
       - attrs==23.2.0
-      - bitsandbytes==0.41.2.post2
+      - bitsandbytes==0.43.1
       - chardet==5.2.0
       - charset-normalizer==3.3.2
       - click==8.1.7
